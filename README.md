@@ -18,7 +18,7 @@ A simple AI-powered chat assistant framework
 ## 🛠 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Chatflow-AI.git
+git clone https://github.com/RosalineWeb/Chatflow-AI.git
 cd Chatflow-AI
 pip install -r requirements.txt
 # 🚀 Chatflow-AI
