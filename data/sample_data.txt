@@ -1,0 +1,4 @@
+# Sample data for Chatflow-AI
+Hello, how can I help you?
+What is your name?
+Tell me a joke.
