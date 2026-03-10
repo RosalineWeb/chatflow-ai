@@ -1,6 +1,6 @@
-# Utility scripts for Chatflow-AI
-def greet_user(name):
-    return f"Hello, {name}! Welcome to Chatflow-AI."
+def start_chat():
+    print("Chatflow-AI backend is ready!")
+    print("This is a sample backend placeholder.")
 
-def get_placeholder_response():
-    return "This is a placeholder response from Chatflow-AI."
+if __name__ == "__main__":
+    start_chat()
