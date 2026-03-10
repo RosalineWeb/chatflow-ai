@@ -16,8 +16,15 @@ A simple AI-powered chat assistant framework
 ---
 
 
+# 🚀 Chatflow-AI
 
-## 🛠 Installation (نمونه)
+> A sleek and minimalist AI-powered chat assistant framework.
+
+![Chatflow-AI Demo](https://raw.githubusercontent.com/RosalineWeb/Chatflow-AI/main/assets/demo.gif)
+
+---
+
+## 🛠 Installation 
 ```bash
 git clone https://github.com/RosalineWeb/Chatflow-AI.git
 cd Chatflow-AI
