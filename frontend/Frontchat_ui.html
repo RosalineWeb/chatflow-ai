@@ -1,0 +1,20 @@
+<!-- frontend/chat_ui.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chatflow-AI</title>
+</head>
+<body>
+    <h1>Chatflow-AI</h1>
+    <input type="text" id="userInput" placeholder="Your name">
+    <button onclick="greet()">Send</button>
+    <p id="response"></p>
+
+    <script>
+        function greet() {
+            const name = document.getElementById('userInput').value;
+            document.getElementById('response').innerText = `Hello, ${name}! Welcome to Chatflow-AI.`;
+        }
+    </script>
+</body>
+</html>
